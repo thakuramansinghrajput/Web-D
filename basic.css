@@ -1,0 +1,46 @@
+body {
+    background-color: none;
+}
+
+button{
+    font-weight: bold;
+    background-color: #2B3467;
+    font-size: large;
+    color: whitesmoke;
+}
+
+span{
+    color: #DC0000;
+}
+
+button:hover{
+    background-color: red;
+    color: black;
+}
+ button:active{
+        background-color: beige;
+        color: black;
+ }
+
+ h1,h2{
+    color: #03001C;
+ }
+ 
+ a{
+    text-decoration: none;
+ }
+
+ a:hover{
+    text-decoration:  underline;
+ }
+
+ input[type="text"]{
+    background-color: antiquewhite;
+    color: black;
+ }
+
+ li>a{
+    color: #0A2647;
+ }
+ 
+
